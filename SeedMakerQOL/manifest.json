@@ -1,0 +1,10 @@
+{
+    "Name": "SeedMakerQOL",
+    "Author": "Reiskimmer",
+    "Version": "1.0.0",
+    "Description": "<One or two sentences about the mod>",
+    "UniqueID": "reiskimmer.SeedMakerQOL",
+    "EntryDll": "SeedMakerQOL.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+  }
