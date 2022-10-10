@@ -1,0 +1,11 @@
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\bin\Debug\net5.0\manifest.json
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\bin\Debug\net5.0\SeedMakerQOL.deps.json
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\bin\Debug\net5.0\SeedMakerQOL.dll
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\bin\Debug\net5.0\SeedMakerQOL.pdb
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.csproj.AssemblyReference.cache
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.AssemblyInfoInputs.cache
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.AssemblyInfo.cs
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.csproj.CoreCompileInputs.cache
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.dll
+C:\Users\xinyi\Documents\StardewValleyMods\SeedMakerQOL\obj\Debug\net5.0\SeedMakerQOL.pdb

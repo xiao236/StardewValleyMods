@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AbTmUrrtHJSgM/yvNpJFX0qvMGvp1aL3FrmZpwnuO+AqtJi+Z/o0lHSS66zJKnhfXTtYhiCESRvz5Lvg1tUfvw==",
+  "dgSpecHash": "54KI/RRLPtFtXFOrRmqHaKQePNTkgPQn+pvqjIdxrY32Iw2a1adVdRVdCg5hBsXeINAIyvnN7tzlvsSy+ZH5fw==",
   "success": true,
   "projectFilePath": "C:\\Users\\xinyi\\Documents\\StardewValleyMods\\SeedMakerQOL\\SeedMakerQOL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\xinyi\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.1\\pathoschild.stardew.modbuildconfig.4.0.1.nupkg.sha512",
+    "C:\\Users\\xinyi\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.2\\pathoschild.stardew.modbuildconfig.4.0.2.nupkg.sha512",
     "C:\\Users\\xinyi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\xinyi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\xinyi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
